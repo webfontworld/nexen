@@ -6,7 +6,7 @@
 
 <pre>
 @font-face {
-    font-family: 'BlackHanSans';
+    font-family: 'NexenTire';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/nexen/NexenTireRegular.eot');
@@ -17,7 +17,7 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'BlackHanSans';
+    font-family: 'NexenTire';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/nexen/NexenTireBold.eot');
