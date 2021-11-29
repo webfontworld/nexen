@@ -1,4 +1,4 @@
-# nexen
+# 넥센 타이어체(NexenTire)
 
 <a href="https://wess.tistory.com/245" target="_blank">
     <img src="https://webfontworld.github.io/nexen/NexenTire.jpg" alt="nexen" style="width:300px">
